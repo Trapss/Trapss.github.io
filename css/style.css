@@ -11,6 +11,11 @@ body {
   font-family: "Comic Sans MS", serif;
 }
 
+.intro {
+		font-color: black;
+		text-align: center;
+}
+
 ::-webkit-scrollbar {
   width: 6px;
   background-color: #111;
